@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamuelS45
 - 👀 I’m interested in building my portfolio and getting hands on experience on Front-End and Back-End Web Development 
-- 🌱 I’m currently learning MERN Tech Stack
+- 🌱 I’m currently learning MERN Tech Stack, Python and MySQL
 - 💞️ I’m looking to collaborate on Front End Projects to gain experience
 - 📫 How to reach me samuelstevenson4@gmail.com
 
